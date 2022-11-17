@@ -1,3 +1,15 @@
+Design the Student class such a way so that the following code provides the expected
+output.
+Hint:
+● Write the constructor with appropriate default value for arguments.
+● Write the dailyEffort() method with appropriate arguments.
+● Write the printDetails() method. For printing suggestions check the following
+instructions.
+⮚ If hour <= 2 print 'Suggestion: Should give more effort!'
+⮚ If hour <= 4 print 'Suggestion: Keep up the good work!'
+⮚ Else print 'Suggestion: Excellent! Now motivate others.'
+[You are not allowed to change the code below]
+
 class Student:
 
     def __init__(self, name, id, dept=None):
