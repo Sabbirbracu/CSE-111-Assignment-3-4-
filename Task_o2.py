@@ -1,15 +1,3 @@
-Design a class Shape for the given code below.
-• Write a class Shape.
-• Write the required constructor that takes 3 parameters and initialize the instance
-variables accordingly.
-• Write a method area() that prints the area.
-Hint: the area method can calxculate only for the shapes: Triangle, Rectangle,
-Rhombus, and Square. So, you have to use conditions inside this method
-For this task, assume that --
-● for a triangle, the arguments passed are the base and height
-● for a rhombus, the arguments passed are the diagonals
-● for a square or rectangle, the arguments passed are the sides.
-
 
 class Shape:
 
